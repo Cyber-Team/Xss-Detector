@@ -17,3 +17,4 @@ chmod +x chrome-driver.sh
 
 Usage:
 sudo ./ct00-xss.sh https://sample.site?param=CYBERTEAM
+//For the param to test, add CYBERTEAM in front of it in all caps
