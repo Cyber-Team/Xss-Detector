@@ -1,7 +1,19 @@
 #!/bin/bash
 
+# Function to get the installed Google Chrome version
+get_chrome_version() {
+    google-chrome --version | awk '{print $3}'
+}
+
+# Get the installed Chrome version
+CHROME_VERSION=$(get_chrome_version)
+if [ -z "$CHROME_VERSION" ]; then
+    echo "Google Chrome is not installed or not found in the PATH."
+    exit 1
+fi
+
 # Define the URL and file paths
-CHROMEDRIVER_URL="https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.58/linux64/chromedriver-linux64.zip"
+CHROMEDRIVER_URL="https://storage.googleapis.com/chrome-for-testing-public/${CHROME_VERSION}/linux64/chromedriver-linux64.zip"
 TEMP_DIR="/tmp/chromedriver_install"
 ZIP_FILE="$TEMP_DIR/chromedriver-linux64.zip"
 CHROMEDRIVER_PATH="/usr/bin/chromedriver"
@@ -10,7 +22,7 @@ CHROMEDRIVER_PATH="/usr/bin/chromedriver"
 mkdir -p "$TEMP_DIR"
 
 # Download the ChromeDriver zip file
-echo "Downloading ChromeDriver..."
+echo "Downloading ChromeDriver for Chrome version $CHROME_VERSION..."
 wget -q "$CHROMEDRIVER_URL" -O "$ZIP_FILE"
 if [ $? -ne 0 ]; then
     echo "Failed to download ChromeDriver."
